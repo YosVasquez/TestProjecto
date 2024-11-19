@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Agregar una tarea</description>
+   <name>Prueba Unitaria</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ccc68be0-6926-42a3-a91a-194250bf171d</testCaseGuid>
+</TestCaseEntity>
