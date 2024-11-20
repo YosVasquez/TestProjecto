@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d12a77fc-c607-4c8d-a018-197f6cfff2e5</webElementGuid>
+      <webElementGuid>3efeee19-17ba-4c79-bb74-dc4d2a62f7b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9ed968f1-a8dc-4a3c-a4d0-e57237c4d8d1</webElementGuid>
+      <webElementGuid>f7c1b08c-82ed-4d1c-b7bb-e0a33df94e74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>task-input</value>
-      <webElementGuid>066043c2-2201-4ae6-a18b-0692a45fc28f</webElementGuid>
+      <webElementGuid>b30f2ee0-cf63-4c09-81fc-17adfcc37273</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;task-input&quot;)</value>
-      <webElementGuid>a3fcab56-7815-4b96-9afb-1bfb0df083ff</webElementGuid>
+      <webElementGuid>3a19a6a2-4752-4aa4-ac35-34a2aa009c1b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='task-input']</value>
-      <webElementGuid>6ae4ba92-b1b3-40b3-861f-a032ed3517df</webElementGuid>
+      <webElementGuid>cf0a46ea-f925-46d8-a26c-6b16e480e7f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div[2]/input</value>
-      <webElementGuid>695f53c4-a809-41b3-851f-9bedcda29c90</webElementGuid>
+      <webElementGuid>985d5f6f-b141-4124-bfbd-43cd032f3677</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'task-input']</value>
-      <webElementGuid>cc8ed266-325f-4902-8b4f-0352e61fac54</webElementGuid>
+      <webElementGuid>dd646869-f181-4168-9eea-86f019c16a8a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

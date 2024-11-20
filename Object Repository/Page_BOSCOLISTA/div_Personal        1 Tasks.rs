@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b564e2b7-0f9a-4ff7-bbff-f65bd7838b27</webElementGuid>
+      <webElementGuid>88af4fa4-0853-441a-87fe-775fa87ffb9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>category</value>
-      <webElementGuid>d84a60cf-355a-4e4f-8419-a606ca8f03dd</webElementGuid>
+      <webElementGuid>0025d919-d4ae-4423-8929-21fca5ce9cae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
         1 Tasks
       
     </value>
-      <webElementGuid>76606d5b-2f9f-40a8-988c-da5ed7771a7e</webElementGuid>
+      <webElementGuid>867b462c-e1c0-4982-afa3-867844ed9ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;home-screen screen&quot;]/div[@class=&quot;categories-wrapper&quot;]/div[@class=&quot;categories&quot;]/div[@class=&quot;category&quot;]</value>
-      <webElementGuid>fa8fbd76-cd48-42eb-9494-116471e61ab7</webElementGuid>
+      <webElementGuid>14f72202-abef-4af0-9273-c9ce11206db7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='img'])[1]/following::div[3]</value>
-      <webElementGuid>eda38859-8fbe-4e3a-a6cf-2d0c7ef65ffc</webElementGuid>
+      <webElementGuid>27126ab1-3e9e-4240-923a-c442b7c40b22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola, bienvenido/a'])[1]/following::div[5]</value>
-      <webElementGuid>197cb7f3-525d-4c1d-8272-3c1cf18f97d4</webElementGuid>
+      <webElementGuid>f9349853-fe9f-40b6-aaf8-d66898811c92</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Trabajo'])[1]/preceding::div[2]</value>
-      <webElementGuid>600fe850-82bf-479f-aa22-46024bfe628d</webElementGuid>
+      <webElementGuid>933a4ad6-e787-4f6d-9d52-25cf2b32123d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div</value>
-      <webElementGuid>93995cd6-de17-4dfd-88fb-1e2f1489a6c6</webElementGuid>
+      <webElementGuid>2c140dfb-4205-44e9-8e2c-eca35e4346c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +108,6 @@
         1 Tasks
       
     ')]</value>
-      <webElementGuid>93a8d08b-5a26-42ea-aee2-383d2b0a56f2</webElementGuid>
+      <webElementGuid>65dec0aa-e726-48ac-9cd0-8e7dc3f06011</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -19,14 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://localhost/formulario/')
+WebUI.navigateToUrl('http://localhost/formulario/lista.php')
 
-WebUI.setText(findTestObject('Object Repository/Page_Formulario/input_Bienvenidos a la lista de tareas_name'), 'Yosmailin Vasquez')
+WebUI.setText(findTestObject('Object Repository/Page_BOSCOLISTA/input_Tareas_task-input'), 'terminar de leer el libro de finanzas')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Formulario/input_Bienvenidos a la lista de tareas_password'), 
-    'RigbBhfdqODKcAsiUrg+1Q==')
+WebUI.click(findTestObject('Object Repository/Page_BOSCOLISTA/button_Aadir'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Formulario/input_Bienvenidos a la lista de tareas_email'), 'vyosmailin16@gmail.com')
-
-WebUI.click(findTestObject('Object Repository/Page_Formulario/input_Terminos y Condiciones_send'))
+WebUI.click(findTestObject('Object Repository/Page_BOSCOLISTA/div_Personal        1 Tasks'))
 

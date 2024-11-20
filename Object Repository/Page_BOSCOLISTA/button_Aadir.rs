@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>51751b15-b19e-4feb-bb41-206017edb985</webElementGuid>
+      <webElementGuid>5d426dd1-8e3b-4cdf-96dd-1f0985f95999</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>add-btn</value>
-      <webElementGuid>6972d7c7-0153-4182-a7cb-fc1998f9be47</webElementGuid>
+      <webElementGuid>00036490-e533-4d92-a404-c22e2a176007</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>añadir</value>
-      <webElementGuid>0c07a419-d6b7-4df3-ac6b-8803a3a7cd5f</webElementGuid>
+      <webElementGuid>2f958651-ebf2-4c81-bece-268ed774e1b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Añadir</value>
-      <webElementGuid>ef20d21f-a963-4b70-97b2-ab703ac0b6f0</webElementGuid>
+      <webElementGuid>62f8ec62-82ff-4ce2-ba7d-f603d30b979d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;add-task&quot;]/div[@class=&quot;btns&quot;]/button[@class=&quot;add-btn&quot;]</value>
-      <webElementGuid>b3f01dac-f612-4e99-94e2-7251b4dfbf2a</webElementGuid>
+      <webElementGuid>22adc135-f1b5-4ce9-8a6b-7604eb3a0b35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='añadir']</value>
-      <webElementGuid>9af0be77-70d6-43cf-b9a7-b899a6146bad</webElementGuid>
+      <webElementGuid>afd0cbba-9b3c-40a8-92c3-d84c2cf94a93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::button[1]</value>
-      <webElementGuid>bd8edaa1-57dd-4e84-8c3e-160aceff82b8</webElementGuid>
+      <webElementGuid>d0288ac7-c28f-42a3-bdce-2965b2080ffc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Categoría'])[1]/following::button[2]</value>
-      <webElementGuid>47a227d9-781d-4ebf-b9c3-92e44eb96524</webElementGuid>
+      <webElementGuid>b9f6425c-8001-46b2-bdc9-8db00e0df46f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Descargar'])[1]/preceding::button[1]</value>
-      <webElementGuid>8447cbc5-eb53-40c7-89ad-163905fccba2</webElementGuid>
+      <webElementGuid>9642e096-62ba-495b-97c7-a20bfca6a77a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Añadir']/parent::*</value>
-      <webElementGuid>4cc4378e-2806-45bf-a647-63864b5f9c61</webElementGuid>
+      <webElementGuid>ba9ab06b-d475-4990-ba46-9a8c555c8981</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button[2]</value>
-      <webElementGuid>14c0afdd-ac99-4042-bb9e-3b629553f71f</webElementGuid>
+      <webElementGuid>f8e8cf4e-a7ad-434f-9ab7-6139d6c73875</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@name = 'añadir' and (text() = 'Añadir' or . = 'Añadir')]</value>
-      <webElementGuid>c3860ca4-0334-4b83-b41b-4a9af062c7df</webElementGuid>
+      <webElementGuid>83c3e7e7-6526-407b-bfe4-538cf80d72aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
