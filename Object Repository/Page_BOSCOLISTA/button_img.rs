@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Aadir</name>
+   <name>button_img</name>
    <tag></tag>
-   <elementGuidId>2a293917-4274-4bba-8a24-b34469b67077</elementGuidId>
+   <elementGuidId>f8990d2b-7128-4f06-bb4d-c50346cdde50</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button[name=&quot;añadir&quot;]</value>
+         <value>button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@name='añadir']</value>
+         <value>//button[@onclick=&quot;document.getElementById('profile-image-input').click()&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Añadir&quot;i]</value>
+         <value>internal:role=button[name=&quot;img&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8cff5382-dda4-429b-aaf5-b41e298e023c</webElementGuid>
+      <webElementGuid>b118be5d-ab43-462f-9c4b-f0296a1e2f5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>onclick</name>
       <type>Main</type>
-      <value>add-btn</value>
-      <webElementGuid>1c036658-c039-4c08-8414-4502f83a24be</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>añadir</value>
-      <webElementGuid>0f4311c4-db0a-424d-904f-32dd0de54f95</webElementGuid>
+      <value>document.getElementById('profile-image-input').click()</value>
+      <webElementGuid>8f0bc890-37eb-4780-b9ae-3de9f3a71837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Añadir</value>
-      <webElementGuid>08d72fcd-fb04-4945-b527-175812276a07</webElementGuid>
+      <value>img</value>
+      <webElementGuid>62251201-6f96-4d7c-8e93-1fdc7fa66f94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;add-task&quot;]/div[@class=&quot;btns&quot;]/button[@class=&quot;add-btn&quot;]</value>
-      <webElementGuid>5801ee6f-4eb5-4d16-a72d-6145c6cc686b</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;home-screen screen&quot;]/div[@class=&quot;head-wrapper&quot;]/div[@class=&quot;welcome&quot;]/div[@class=&quot;img-button&quot;]/button[1]</value>
+      <webElementGuid>e4b2e62b-f29f-4d75-a895-4ee8ec66ee5c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@name='añadir']</value>
-      <webElementGuid>169ff2e0-5d35-4312-9170-f07218bc24bc</webElementGuid>
+      <value>//button[@onclick=&quot;document.getElementById('profile-image-input').click()&quot;]</value>
+      <webElementGuid>a1e7dccd-b6ee-478b-b5e0-7f08818f64d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::button[1]</value>
-      <webElementGuid>2282f660-dd4c-4523-b3b6-8d228974c667</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola, bienvenido/a'])[1]/following::button[1]</value>
+      <webElementGuid>d35e8946-03f8-4cc8-b635-8531d5a31e77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categoría'])[1]/following::button[2]</value>
-      <webElementGuid>7c91a236-aac5-4ce8-bd06-4221e8d48478</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal'])[1]/preceding::button[1]</value>
+      <webElementGuid>4c5c584c-bf00-495c-a7a4-6b24e92506fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descargar'])[1]/preceding::button[1]</value>
-      <webElementGuid>c5a28f36-d87c-4035-991e-cefd8b7a9345</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trabajo'])[1]/preceding::button[1]</value>
+      <webElementGuid>5f0b3790-fd6c-49f3-8bf4-ff64e0ee330e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Añadir']/parent::*</value>
-      <webElementGuid>c6e56a07-e62d-434a-a645-025c01482cae</webElementGuid>
+      <value>//*/text()[normalize-space(.)='img']/parent::*</value>
+      <webElementGuid>a2002229-5629-4634-bbae-b3849d8c0dc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/button[2]</value>
-      <webElementGuid>194e7beb-205a-4104-9c34-a652030b7da1</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>dcd9c6d4-1802-476c-a521-f79359b9e897</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@name = 'añadir' and (text() = 'Añadir' or . = 'Añadir')]</value>
-      <webElementGuid>967f266a-51a2-4f87-91f0-346c5bcd32b7</webElementGuid>
+      <value>//button[(text() = 'img' or . = 'img')]</value>
+      <webElementGuid>54d5a9a4-2419-4e0e-89ef-7b0bc316823b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

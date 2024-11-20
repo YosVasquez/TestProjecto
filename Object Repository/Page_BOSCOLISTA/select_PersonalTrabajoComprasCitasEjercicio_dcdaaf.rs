@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>6fa27349-f121-463c-a1bf-696751758de6</webElementGuid>
+      <webElementGuid>9c5dfe96-cb96-4081-8c8b-2d9aa0ac6ff3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>category-select</value>
-      <webElementGuid>c64ac650-537c-4c13-a586-361c362b238f</webElementGuid>
+      <webElementGuid>c6105131-e2d8-4fcb-9571-e9260b89137e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>PersonalTrabajoComprasCitasEjercicioAcadémicasTécnicas</value>
-      <webElementGuid>5d0547f2-a57f-4cd1-b6aa-7f79b1e9f277</webElementGuid>
+      <webElementGuid>dd9814be-6a47-4a3e-977a-080cfe70fa41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;category-select&quot;)</value>
-      <webElementGuid>aaf6e51b-220b-4be9-a6b5-ada92880e8e1</webElementGuid>
+      <webElementGuid>06e0bba9-f231-491e-b41b-5feeea57a5a2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='category-select']</value>
-      <webElementGuid>4be67854-b4d4-47ec-b1e1-21f1cbe3ee71</webElementGuid>
+      <webElementGuid>e30eb1de-c7eb-4ead-8888-9192ec7ee8b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Categoría'])[1]/following::select[1]</value>
-      <webElementGuid>03fe1853-ad21-4308-9b74-3374ffd37219</webElementGuid>
+      <webElementGuid>4267d245-e8ef-440a-8d1e-38e6abfb19fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tareas'])[1]/following::select[1]</value>
-      <webElementGuid>fc4e1647-0d67-4df9-98a3-34ff02725176</webElementGuid>
+      <webElementGuid>7b721e27-fbc1-4b0e-a4d9-c2f89f1e5336</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::select[1]</value>
-      <webElementGuid>8d9ec45a-7fc2-4383-9667-eb2ef2eb3c50</webElementGuid>
+      <webElementGuid>77f3c9ed-7e91-4dad-8dee-d689a5f4dc19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Añadir'])[1]/preceding::select[1]</value>
-      <webElementGuid>13ade14b-627a-43d2-8126-aa8958aacc60</webElementGuid>
+      <webElementGuid>3af7ac2c-88a5-43fc-9f58-d2aae9ca71ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>ce784a57-6752-4992-98bc-6297be04f405</webElementGuid>
+      <webElementGuid>27e43079-5226-40b7-a691-3791cfd3a8e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'category-select' and (text() = 'PersonalTrabajoComprasCitasEjercicioAcadémicasTécnicas' or . = 'PersonalTrabajoComprasCitasEjercicioAcadémicasTécnicas')]</value>
-      <webElementGuid>889e7568-843f-4d18-95d7-4bc8df71632a</webElementGuid>
+      <webElementGuid>8921eee2-f220-4bca-bab7-a20ab5d924b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
