@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cuando agregues una nueva característica, asegúrate de que lo que ya estaba funcionando siga funcionando bien.</description>
+   <name>Prueba de regresión</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbad9f67-151a-4cc3-8acf-ce0d8174e257</testCaseGuid>
+</TestCaseEntity>
