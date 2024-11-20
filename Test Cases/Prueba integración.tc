@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verás si el frontend (lo que el usuario ve) y el backend (la base de datos, el servidor) trabajan bien juntos.</description>
+   <name>Prueba integración</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5458e1e0-faad-436e-87bd-d97951571ab9</testCaseGuid>
+</TestCaseEntity>

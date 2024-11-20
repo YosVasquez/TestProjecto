@@ -24,9 +24,11 @@ WebUI.navigateToUrl('http://localhost/formulario/')
 WebUI.setText(findTestObject('Object Repository/Page_Formulario/input_Bienvenidos a la lista de tareas_name'), 'Yosmailin Vasquez')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Formulario/input_Bienvenidos a la lista de tareas_password'), 
-    'RigbBhfdqODKcAsiUrg+1Q==')
+    'qeJ0sjJnwEs=')
 
 WebUI.setText(findTestObject('Object Repository/Page_Formulario/input_Bienvenidos a la lista de tareas_email'), 'vyosmailin16@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Formulario/input_Terminos y Condiciones_send'))
+
+WebUI.click(findTestObject('Object Repository/Page_BOSCOLISTA/div_Hola, bienvenidoa                      _f81d13'))
 
